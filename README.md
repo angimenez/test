@@ -1,2 +1,2 @@
-# test - CONF
+# test
  Descripción del repositorio

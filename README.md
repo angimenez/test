@@ -1,2 +1,2 @@
-# test - conflict
+# test
  Descripción del repositorio
